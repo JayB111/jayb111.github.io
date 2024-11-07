@@ -1,0 +1,32 @@
+
+body {
+    color:black;
+    font-size: 22px;
+    line-hight: 1.2;
+    font-family: "Geist", sans-serif;
+ nav {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+ }
+ nav ul {
+    margin 16px;
+    justify-content: center;
+    
+ }
+    
+}
+article{
+    width: 800px;
+    margin: auto;
+}
+article h1{
+    font-weight: 700;
+    font-size: 36px;
+    margin: 120px 0 40px 0;
+}
+
+p{
+    font-size: 18px;
+}
